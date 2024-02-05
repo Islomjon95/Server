@@ -8,6 +8,7 @@ const messages = new scehma({
    phonenumber:String,
    messages:String,
    course:String,
+   selectedTime: String,
    
 
 }, { timestamps: true })
